@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+openpyxl        # Excel
+rasterio        # GeoTIFF, georeferencing, GLT ortho
+spectral        # ENVI cubes / spectral libraries
+netCDF4         # EMIT
+xarray          # xarray inputs, netCDF output
+h5py            # PRISMA
+# optional: specdal (ASD binary), rioxarray (xarray georef), pytest
